@@ -40,7 +40,7 @@ Each script reads the previous step's output from `data/`, so run them in sequen
 | `8_wind_data_combining.py` | Cleans and merges monthly wind station CSVs |
 | `app.py` | Streamlit dashboard rendering all outputs above |
 
-## Data Sources 01
+## Data Sources
 
 | Dataset | Provider | Date Range | Access |
 |---|---|---|---|
