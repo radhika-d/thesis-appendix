@@ -1,0 +1,1727 @@
+{
+  "2017_01": {
+    "year": 2017,
+    "month": 1,
+    "date_full": "2017-01-27",
+    "png_path": "sossusvlei_2017_01.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2017_01_2017-01-27.tif"
+  },
+  "2017_02": {
+    "year": 2017,
+    "month": 2,
+    "date_full": "2017-02-09",
+    "png_path": "sossusvlei_2017_02.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2017_02_2017-02-09.tif"
+  },
+  "2017_03": {
+    "year": 2017,
+    "month": 3,
+    "date_full": "2017-03-11",
+    "png_path": "sossusvlei_2017_03.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2017_03_2017-03-11.tif"
+  },
+  "2017_04": {
+    "year": 2017,
+    "month": 4,
+    "date_full": "2017-04-10",
+    "png_path": "sossusvlei_2017_04.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2017_04_2017-04-10.tif"
+  },
+  "2017_05": {
+    "year": 2017,
+    "month": 5,
+    "date_full": "2017-05-20",
+    "png_path": "sossusvlei_2017_05.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2017_05_2017-05-20.tif"
+  },
+  "2017_06": {
+    "year": 2017,
+    "month": 6,
+    "date_full": "2017-06-24",
+    "png_path": "sossusvlei_2017_06.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2017_06_2017-06-24.tif"
+  },
+  "2017_07": {
+    "year": 2017,
+    "month": 7,
+    "date_full": "2017-07-26",
+    "png_path": "sossusvlei_2017_07.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2017_07_2017-07-26.tif"
+  },
+  "2017_08": {
+    "year": 2017,
+    "month": 8,
+    "date_full": "2017-08-23",
+    "png_path": "sossusvlei_2017_08.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2017_08_2017-08-23.tif"
+  },
+  "2017_09": {
+    "year": 2017,
+    "month": 9,
+    "date_full": "2017-09-27",
+    "png_path": "sossusvlei_2017_09.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2017_09_2017-09-27.tif"
+  },
+  "2017_10": {
+    "year": 2017,
+    "month": 10,
+    "date_full": "2017-10-22",
+    "png_path": "sossusvlei_2017_10.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2017_10_2017-10-22.tif"
+  },
+  "2017_11": {
+    "year": 2017,
+    "month": 11,
+    "date_full": "2017-11-16",
+    "png_path": "sossusvlei_2017_11.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2017_11_2017-11-16.tif"
+  },
+  "2017_12": {
+    "year": 2017,
+    "month": 12,
+    "date_full": "2017-12-16",
+    "png_path": "sossusvlei_2017_12.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2017_12_2017-12-16.tif"
+  },
+  "2018_01": {
+    "year": 2018,
+    "month": 1,
+    "date_full": "2018-01-22",
+    "png_path": "sossusvlei_2018_01.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2018_01_2018-01-22.tif"
+  },
+  "2018_02": {
+    "year": 2018,
+    "month": 2,
+    "date_full": "2018-02-14",
+    "png_path": "sossusvlei_2018_02.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2018_02_2018-02-14.tif"
+  },
+  "2018_03": {
+    "year": 2018,
+    "month": 3,
+    "date_full": "2018-03-01",
+    "png_path": "sossusvlei_2018_03.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2018_03_2018-03-01.tif"
+  },
+  "2018_04": {
+    "year": 2018,
+    "month": 4,
+    "date_full": "2018-04-20",
+    "png_path": "sossusvlei_2018_04.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2018_04_2018-04-20.tif"
+  },
+  "2018_05": {
+    "year": 2018,
+    "month": 5,
+    "date_full": "2018-05-22",
+    "png_path": "sossusvlei_2018_05.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2018_05_2018-05-22.tif"
+  },
+  "2018_06": {
+    "year": 2018,
+    "month": 6,
+    "date_full": "2018-06-16",
+    "png_path": "sossusvlei_2018_06.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2018_06_2018-06-16.tif"
+  },
+  "2018_07": {
+    "year": 2018,
+    "month": 7,
+    "date_full": "2018-07-09",
+    "png_path": "sossusvlei_2018_07.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2018_07_2018-07-09.tif"
+  },
+  "2018_09": {
+    "year": 2018,
+    "month": 9,
+    "date_full": "2018-09-07",
+    "png_path": "sossusvlei_2018_09.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2018_09_2018-09-07.tif"
+  },
+  "2018_10": {
+    "year": 2018,
+    "month": 10,
+    "date_full": "2018-10-24",
+    "png_path": "sossusvlei_2018_10.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2018_10_2018-10-24.tif"
+  },
+  "2018_11": {
+    "year": 2018,
+    "month": 11,
+    "date_full": "2018-11-26",
+    "png_path": "sossusvlei_2018_11.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2018_11_2018-11-26.tif"
+  },
+  "2018_12": {
+    "year": 2018,
+    "month": 12,
+    "date_full": "2018-12-11",
+    "png_path": "sossusvlei_2018_12.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2018_12_2018-12-11.tif"
+  },
+  "2019_01": {
+    "year": 2019,
+    "month": 1,
+    "date_full": "2019-01-17",
+    "png_path": "sossusvlei_2019_01.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2019_01_2019-01-17.tif"
+  },
+  "2019_02": {
+    "year": 2019,
+    "month": 2,
+    "date_full": "2019-02-19",
+    "png_path": "sossusvlei_2019_02.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2019_02_2019-02-19.tif"
+  },
+  "2019_03": {
+    "year": 2019,
+    "month": 3,
+    "date_full": "2019-03-01",
+    "png_path": "sossusvlei_2019_03.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2019_03_2019-03-01.tif"
+  },
+  "2019_04": {
+    "year": 2019,
+    "month": 4,
+    "date_full": "2019-04-05",
+    "png_path": "sossusvlei_2019_04.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2019_04_2019-04-05.tif"
+  },
+  "2019_05": {
+    "year": 2019,
+    "month": 5,
+    "date_full": "2019-05-10",
+    "png_path": "sossusvlei_2019_05.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2019_05_2019-05-10.tif"
+  },
+  "2019_06": {
+    "year": 2019,
+    "month": 6,
+    "date_full": "2019-06-04",
+    "png_path": "sossusvlei_2019_06.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2019_06_2019-06-04.tif"
+  },
+  "2019_07": {
+    "year": 2019,
+    "month": 7,
+    "date_full": "2019-07-14",
+    "png_path": "sossusvlei_2019_07.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2019_07_2019-07-14.tif"
+  },
+  "2019_08": {
+    "year": 2019,
+    "month": 8,
+    "date_full": "2019-08-18",
+    "png_path": "sossusvlei_2019_08.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2019_08_2019-08-18.tif"
+  },
+  "2019_09": {
+    "year": 2019,
+    "month": 9,
+    "date_full": "2019-09-09",
+    "png_path": "sossusvlei_2019_09.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2019_09_2019-09-09.tif"
+  },
+  "2019_10": {
+    "year": 2019,
+    "month": 10,
+    "date_full": "2019-10-02",
+    "png_path": "sossusvlei_2019_10.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2019_10_2019-10-02.tif"
+  },
+  "2019_11": {
+    "year": 2019,
+    "month": 11,
+    "date_full": "2019-11-26",
+    "png_path": "sossusvlei_2019_11.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2019_11_2019-11-26.tif"
+  },
+  "2019_12": {
+    "year": 2019,
+    "month": 12,
+    "date_full": "2019-12-23",
+    "png_path": "sossusvlei_2019_12.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2019_12_2019-12-23.tif"
+  },
+  "2020_01": {
+    "year": 2020,
+    "month": 1,
+    "date_full": "2020-01-05",
+    "png_path": "sossusvlei_2020_01.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2020_01_2020-01-05.tif"
+  },
+  "2020_02": {
+    "year": 2020,
+    "month": 2,
+    "date_full": "2020-02-06",
+    "png_path": "sossusvlei_2020_02.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2020_02_2020-02-06.tif"
+  },
+  "2020_03": {
+    "year": 2020,
+    "month": 3,
+    "date_full": "2020-03-15",
+    "png_path": "sossusvlei_2020_03.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2020_03_2020-03-15.tif"
+  },
+  "2020_04": {
+    "year": 2020,
+    "month": 4,
+    "date_full": "2020-04-26",
+    "png_path": "sossusvlei_2020_04.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2020_04_2020-04-26.tif"
+  },
+  "2020_05": {
+    "year": 2020,
+    "month": 5,
+    "date_full": "2020-05-21",
+    "png_path": "sossusvlei_2020_05.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2020_05_2020-05-21.tif"
+  },
+  "2020_06": {
+    "year": 2020,
+    "month": 6,
+    "date_full": "2020-06-08",
+    "png_path": "sossusvlei_2020_06.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2020_06_2020-06-08.tif"
+  },
+  "2020_07": {
+    "year": 2020,
+    "month": 7,
+    "date_full": "2020-07-20",
+    "png_path": "sossusvlei_2020_07.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2020_07_2020-07-20.tif"
+  },
+  "2020_08": {
+    "year": 2020,
+    "month": 8,
+    "date_full": "2020-08-27",
+    "png_path": "sossusvlei_2020_08.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2020_08_2020-08-27.tif"
+  },
+  "2020_09": {
+    "year": 2020,
+    "month": 9,
+    "date_full": "2020-09-11",
+    "png_path": "sossusvlei_2020_09.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2020_09_2020-09-11.tif"
+  },
+  "2020_10": {
+    "year": 2020,
+    "month": 10,
+    "date_full": "2020-10-13",
+    "png_path": "sossusvlei_2020_10.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2020_10_2020-10-13.tif"
+  },
+  "2020_11": {
+    "year": 2020,
+    "month": 11,
+    "date_full": "2020-11-25",
+    "png_path": "sossusvlei_2020_11.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2020_11_2020-11-25.tif"
+  },
+  "2020_12": {
+    "year": 2020,
+    "month": 12,
+    "date_full": "2020-12-25",
+    "png_path": "sossusvlei_2020_12.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2020_12_2020-12-25.tif"
+  },
+  "2021_01": {
+    "year": 2021,
+    "month": 1,
+    "date_full": "2021-01-16",
+    "png_path": "sossusvlei_2021_01.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2021_01_2021-01-16.tif"
+  },
+  "2021_02": {
+    "year": 2021,
+    "month": 2,
+    "date_full": "2021-02-18",
+    "png_path": "sossusvlei_2021_02.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2021_02_2021-02-18.tif"
+  },
+  "2021_03": {
+    "year": 2021,
+    "month": 3,
+    "date_full": "2021-03-15",
+    "png_path": "sossusvlei_2021_03.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2021_03_2021-03-15.tif"
+  },
+  "2021_04": {
+    "year": 2021,
+    "month": 4,
+    "date_full": "2021-04-14",
+    "png_path": "sossusvlei_2021_04.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2021_04_2021-04-14.tif"
+  },
+  "2021_05": {
+    "year": 2021,
+    "month": 5,
+    "date_full": "2021-05-26",
+    "png_path": "sossusvlei_2021_05.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2021_05_2021-05-26.tif"
+  },
+  "2021_06": {
+    "year": 2021,
+    "month": 6,
+    "date_full": "2021-06-13",
+    "png_path": "sossusvlei_2021_06.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2021_06_2021-06-13.tif"
+  },
+  "2021_07": {
+    "year": 2021,
+    "month": 7,
+    "date_full": "2021-07-18",
+    "png_path": "sossusvlei_2021_07.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2021_07_2021-07-18.tif"
+  },
+  "2021_08": {
+    "year": 2021,
+    "month": 8,
+    "date_full": "2021-08-22",
+    "png_path": "sossusvlei_2021_08.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2021_08_2021-08-22.tif"
+  },
+  "2021_09": {
+    "year": 2021,
+    "month": 9,
+    "date_full": "2021-09-01",
+    "png_path": "sossusvlei_2021_09.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2021_09_2021-09-01.tif"
+  },
+  "2021_10": {
+    "year": 2021,
+    "month": 10,
+    "date_full": "2021-10-11",
+    "png_path": "sossusvlei_2021_10.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2021_10_2021-10-11.tif"
+  },
+  "2021_11": {
+    "year": 2021,
+    "month": 11,
+    "date_full": "2021-11-10",
+    "png_path": "sossusvlei_2021_11.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2021_11_2021-11-10.tif"
+  },
+  "2021_12": {
+    "year": 2021,
+    "month": 12,
+    "date_full": "2021-12-20",
+    "png_path": "sossusvlei_2021_12.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2021_12_2021-12-20.tif"
+  },
+  "2022_01": {
+    "year": 2022,
+    "month": 1,
+    "date_full": "2022-01-26",
+    "png_path": "sossusvlei_2022_01.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2022_01_2022-01-26.tif"
+  },
+  "2022_02": {
+    "year": 2022,
+    "month": 2,
+    "date_full": "2022-02-23",
+    "png_path": "sossusvlei_2022_02.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2022_02_2022-02-23.tif"
+  },
+  "2022_03": {
+    "year": 2022,
+    "month": 3,
+    "date_full": "2022-03-07",
+    "png_path": "sossusvlei_2022_03.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2022_03_2022-03-07.tif"
+  },
+  "2022_04": {
+    "year": 2022,
+    "month": 4,
+    "date_full": "2022-04-01",
+    "png_path": "sossusvlei_2022_04.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2022_04_2022-04-01.tif"
+  },
+  "2022_05": {
+    "year": 2022,
+    "month": 5,
+    "date_full": "2022-05-14",
+    "png_path": "sossusvlei_2022_05.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2022_05_2022-05-14.tif"
+  },
+  "2022_06": {
+    "year": 2022,
+    "month": 6,
+    "date_full": "2022-06-08",
+    "png_path": "sossusvlei_2022_06.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2022_06_2022-06-08.tif"
+  },
+  "2022_07": {
+    "year": 2022,
+    "month": 7,
+    "date_full": "2022-07-08",
+    "png_path": "sossusvlei_2022_07.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2022_07_2022-07-08.tif"
+  },
+  "2022_08": {
+    "year": 2022,
+    "month": 8,
+    "date_full": "2022-08-17",
+    "png_path": "sossusvlei_2022_08.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2022_08_2022-08-17.tif"
+  },
+  "2022_09": {
+    "year": 2022,
+    "month": 9,
+    "date_full": "2022-09-26",
+    "png_path": "sossusvlei_2022_09.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2022_09_2022-09-26.tif"
+  },
+  "2022_10": {
+    "year": 2022,
+    "month": 10,
+    "date_full": "2022-10-06",
+    "png_path": "sossusvlei_2022_10.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2022_10_2022-10-06.tif"
+  },
+  "2022_11": {
+    "year": 2022,
+    "month": 11,
+    "date_full": "2022-11-22",
+    "png_path": "sossusvlei_2022_11.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2022_11_2022-11-22.tif"
+  },
+  "2022_12": {
+    "year": 2022,
+    "month": 12,
+    "date_full": "2022-12-07",
+    "png_path": "sossusvlei_2022_12.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2022_12_2022-12-07.tif"
+  },
+  "2023_01": {
+    "year": 2023,
+    "month": 1,
+    "date_full": "2023-01-26",
+    "png_path": "sossusvlei_2023_01.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2023_01_2023-01-26.tif"
+  },
+  "2023_02": {
+    "year": 2023,
+    "month": 2,
+    "date_full": "2023-02-08",
+    "png_path": "sossusvlei_2023_02.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2023_02_2023-02-08.tif"
+  },
+  "2023_03": {
+    "year": 2023,
+    "month": 3,
+    "date_full": "2023-03-12",
+    "png_path": "sossusvlei_2023_03.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2023_03_2023-03-12.tif"
+  },
+  "2023_04": {
+    "year": 2023,
+    "month": 4,
+    "date_full": "2023-04-24",
+    "png_path": "sossusvlei_2023_04.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2023_04_2023-04-24.tif"
+  },
+  "2023_05": {
+    "year": 2023,
+    "month": 5,
+    "date_full": "2023-05-19",
+    "png_path": "sossusvlei_2023_05.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2023_05_2023-05-19.tif"
+  },
+  "2023_06": {
+    "year": 2023,
+    "month": 6,
+    "date_full": "2023-06-23",
+    "png_path": "sossusvlei_2023_06.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2023_06_2023-06-23.tif"
+  },
+  "2023_07": {
+    "year": 2023,
+    "month": 7,
+    "date_full": "2023-07-03",
+    "png_path": "sossusvlei_2023_07.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2023_07_2023-07-03.tif"
+  },
+  "2023_08": {
+    "year": 2023,
+    "month": 8,
+    "date_full": "2023-08-07",
+    "png_path": "sossusvlei_2023_08.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2023_08_2023-08-07.tif"
+  },
+  "2023_09": {
+    "year": 2023,
+    "month": 9,
+    "date_full": "2023-09-01",
+    "png_path": "sossusvlei_2023_09.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2023_09_2023-09-01.tif"
+  },
+  "2023_10": {
+    "year": 2023,
+    "month": 10,
+    "date_full": "2023-10-13",
+    "png_path": "sossusvlei_2023_10.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2023_10_2023-10-13.tif"
+  },
+  "2023_11": {
+    "year": 2023,
+    "month": 11,
+    "date_full": "2023-11-07",
+    "png_path": "sossusvlei_2023_11.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2023_11_2023-11-07.tif"
+  },
+  "2023_12": {
+    "year": 2023,
+    "month": 12,
+    "date_full": "2023-12-10",
+    "png_path": "sossusvlei_2023_12.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2023_12_2023-12-10.tif"
+  },
+  "2024_01": {
+    "year": 2024,
+    "month": 1,
+    "date_full": "2024-01-01",
+    "png_path": "sossusvlei_2024_01.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2024_01_2024-01-01.tif"
+  },
+  "2024_02": {
+    "year": 2024,
+    "month": 2,
+    "date_full": "2024-02-03",
+    "png_path": "sossusvlei_2024_02.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2024_02_2024-02-03.tif"
+  },
+  "2024_03": {
+    "year": 2024,
+    "month": 3,
+    "date_full": "2024-03-06",
+    "png_path": "sossusvlei_2024_03.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2024_03_2024-03-06.tif"
+  },
+  "2024_04": {
+    "year": 2024,
+    "month": 4,
+    "date_full": "2024-04-05",
+    "png_path": "sossusvlei_2024_04.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2024_04_2024-04-05.tif"
+  },
+  "2024_05": {
+    "year": 2024,
+    "month": 5,
+    "date_full": "2024-05-03",
+    "png_path": "sossusvlei_2024_05.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2024_05_2024-05-03.tif"
+  },
+  "2024_06": {
+    "year": 2024,
+    "month": 6,
+    "date_full": "2024-06-14",
+    "png_path": "sossusvlei_2024_06.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2024_06_2024-06-14.tif"
+  },
+  "2024_07": {
+    "year": 2024,
+    "month": 7,
+    "date_full": "2024-07-19",
+    "png_path": "sossusvlei_2024_07.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2024_07_2024-07-19.tif"
+  },
+  "2024_08": {
+    "year": 2024,
+    "month": 8,
+    "date_full": "2024-08-16",
+    "png_path": "sossusvlei_2024_08.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2024_08_2024-08-16.tif"
+  },
+  "2024_09": {
+    "year": 2024,
+    "month": 9,
+    "date_full": "2024-09-20",
+    "png_path": "sossusvlei_2024_09.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2024_09_2024-09-20.tif"
+  },
+  "2024_10": {
+    "year": 2024,
+    "month": 10,
+    "date_full": "2024-10-05",
+    "png_path": "sossusvlei_2024_10.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2024_10_2024-10-05.tif"
+  },
+  "2024_11": {
+    "year": 2024,
+    "month": 11,
+    "date_full": "2024-11-04",
+    "png_path": "sossusvlei_2024_11.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2024_11_2024-11-04.tif"
+  },
+  "2024_12": {
+    "year": 2024,
+    "month": 12,
+    "date_full": "2024-12-04",
+    "png_path": "sossusvlei_2024_12.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2024_12_2024-12-04.tif"
+  },
+  "2025_01": {
+    "year": 2025,
+    "month": 1,
+    "date_full": "2025-01-20",
+    "png_path": "sossusvlei_2025_01.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2025_01_2025-01-20.tif"
+  },
+  "2025_02": {
+    "year": 2025,
+    "month": 2,
+    "date_full": "2025-02-19",
+    "png_path": "sossusvlei_2025_02.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2025_02_2025-02-19.tif"
+  },
+  "2025_03": {
+    "year": 2025,
+    "month": 3,
+    "date_full": "2025-03-04",
+    "png_path": "sossusvlei_2025_03.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2025_03_2025-03-04.tif"
+  },
+  "2025_04": {
+    "year": 2025,
+    "month": 4,
+    "date_full": "2025-04-13",
+    "png_path": "sossusvlei_2025_04.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2025_04_2025-04-13.tif"
+  },
+  "2025_05": {
+    "year": 2025,
+    "month": 5,
+    "date_full": "2025-05-10",
+    "png_path": "sossusvlei_2025_05.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2025_05_2025-05-10.tif"
+  },
+  "2025_06": {
+    "year": 2025,
+    "month": 6,
+    "date_full": "2025-06-12",
+    "png_path": "sossusvlei_2025_06.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2025_06_2025-06-12.tif"
+  },
+  "2025_07": {
+    "year": 2025,
+    "month": 7,
+    "date_full": "2025-07-19",
+    "png_path": "sossusvlei_2025_07.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2025_07_2025-07-19.tif"
+  },
+  "2025_08": {
+    "year": 2025,
+    "month": 8,
+    "date_full": "2025-08-16",
+    "png_path": "sossusvlei_2025_08.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2025_08_2025-08-16.tif"
+  },
+  "2025_09": {
+    "year": 2025,
+    "month": 9,
+    "date_full": "2025-09-04",
+    "png_path": "sossusvlei_2025_09.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2025_09_2025-09-04.tif"
+  },
+  "2025_10": {
+    "year": 2025,
+    "month": 10,
+    "date_full": "2025-10-20",
+    "png_path": "sossusvlei_2025_10.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2025_10_2025-10-20.tif"
+  },
+  "2025_11": {
+    "year": 2025,
+    "month": 11,
+    "date_full": "2025-11-11",
+    "png_path": "sossusvlei_2025_11.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2025_11_2025-11-11.tif"
+  },
+  "2025_12": {
+    "year": 2025,
+    "month": 12,
+    "date_full": "2025-12-01",
+    "png_path": "sossusvlei_2025_12.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2025_12_2025-12-01.tif"
+  },
+  "2026_01": {
+    "year": 2026,
+    "month": 1,
+    "date_full": "2026-01-08",
+    "png_path": "sossusvlei_2026_01.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2026_01_2026-01-08.tif"
+  },
+  "2026_02": {
+    "year": 2026,
+    "month": 2,
+    "date_full": "2026-02-07",
+    "png_path": "sossusvlei_2026_02.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2026_02_2026-02-07.tif"
+  },
+  "2026_03": {
+    "year": 2026,
+    "month": 3,
+    "date_full": "2026-03-21",
+    "png_path": "sossusvlei_2026_03.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2026_03_2026-03-21.tif"
+  },
+  "2026_04": {
+    "year": 2026,
+    "month": 4,
+    "date_full": "2026-04-23",
+    "png_path": "sossusvlei_2026_04.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2026_04_2026-04-23.tif"
+  },
+  "2026_05": {
+    "year": 2026,
+    "month": 5,
+    "date_full": "2026-05-23",
+    "png_path": "sossusvlei_2026_05.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2026_05_2026-05-23.tif"
+  },
+  "2026_06": {
+    "year": 2026,
+    "month": 6,
+    "date_full": "2026-06-02",
+    "png_path": "sossusvlei_2026_06.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2026_06_2026-06-02.tif"
+  },
+  "2026_07": {
+    "year": 2026,
+    "month": 7,
+    "date_full": "2026-07-27",
+    "png_path": "sossusvlei_2026_07.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2026_07_2026-07-27.tif"
+  },
+  "2026_08": {
+    "year": 2026,
+    "month": 8,
+    "date_full": "2026-08-03",
+    "png_path": "sossusvlei_2026_08.png",
+    "bounds": {
+      "left": 15.271047481575252,
+      "right": 15.351550013558615,
+      "bottom": -24.779503421477113,
+      "top": -24.737340632415492
+    },
+    "width": 815,
+    "height": 465,
+    "source_file": "sossusvlei_2026_08_2026-08-03.tif"
+  }
+}

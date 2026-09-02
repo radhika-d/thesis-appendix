@@ -1,0 +1,25 @@
+# ============================================
+# STAR DUNE DASHBOARD - All Requirements
+# For both app and data processing scripts
+# ============================================
+
+# App requirements (for VM deployment and local running)
+streamlit
+folium
+streamlit-folium
+geopandas
+pandas
+numpy
+matplotlib
+shapely
+Pillow
+windrose
+pyproj
+
+# Data processing requirements (for only src scripts)
+rasterio
+scikit-image
+opencv-python
+earthengine-api
+networkx
+requests

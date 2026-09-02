@@ -1,0 +1,2 @@
+n_sample_points,n_valid_measurements,measurement_rate_pct,mean_error_ME_m,std_dev_m,rmse_m,mean_abs_error_m,median_abs_error_m,min_abs_error_m,max_abs_error_m,margin_of_error_95pct_m,group
+282.0,270.0,95.7,0.319,2.416,2.433,1.945,1.607,0.01,6.751,4.768,ALL

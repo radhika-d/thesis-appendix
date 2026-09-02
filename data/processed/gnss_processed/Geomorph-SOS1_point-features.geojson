@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "Geomorph-SOS1_point-features",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32733" } },
+"features": [
+{ "type": "Feature", "properties": { "Person": "Felix", "Sample": "HV-1", "Dune": "Hidden Vlei surface", "N_UTM": 7262301.502, "E_UTM": 534265.8345 }, "geometry": { "type": "Point", "coordinates": [ 534265.834550373023376, 7262301.502088064327836 ] } },
+{ "type": "Feature", "properties": { "Person": "Felix", "Sample": "HV-2", "Dune": "Hidden Vlei surface", "N_UTM": 7262284.944, "E_UTM": 534386.3677 }, "geometry": { "type": "Point", "coordinates": [ 534386.367761139641516, 7262284.944498060271144 ] } },
+{ "type": "Feature", "properties": { "Person": "Felix", "Sample": "HV-3", "Dune": "Hidden Vlei surface", "N_UTM": 7262317.845, "E_UTM": 534478.2618 }, "geometry": { "type": "Point", "coordinates": [ 534478.261813766206615, 7262317.845911020413041 ] } },
+{ "type": "Feature", "properties": { "Person": "Felix", "Sample": "HV-4", "Dune": "Hidden Vlei surface", "N_UTM": 7262444.766, "E_UTM": 534268.9295 }, "geometry": { "type": "Point", "coordinates": [ 534268.929518175544217, 7262444.766235952265561 ] } },
+{ "type": "Feature", "properties": { "Person": "Felix", "Sample": "HV-5", "Dune": "Hidden Vlei surface", "N_UTM": 7262586.623, "E_UTM": 533889.0089 }, "geometry": { "type": "Point", "coordinates": [ 533889.008961006067693, 7262586.623291043564677 ] } },
+{ "type": "Feature", "properties": { "Person": "Felix", "Sample": "HV-6", "Dune": "Hidden Vlei surface", "N_UTM": 7262599.935, "E_UTM": 533998.7265 }, "geometry": { "type": "Point", "coordinates": [ 533998.726526197278872, 7262599.935789860785007 ] } },
+{ "type": "Feature", "properties": { "Person": "Felix", "Sample": "HV-7", "Dune": "Hidden Vlei surface", "N_UTM": 7262820.694, "E_UTM": 533632.2182 }, "geometry": { "type": "Point", "coordinates": [ 533632.218233364983462, 7262820.694583341479301 ] } }
+]
+}
