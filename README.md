@@ -44,11 +44,11 @@ Each script reads the previous step's output from `data/`, so run them in sequen
 
 | Dataset | Provider | Date Range | Access |
 |---|---|---|---|
-| Sentinel-2 Level-2A Surface Reflectance Harmonized (`COPERNICUS/S2_SR_HARMONIZED`), bands B2, B3, B4, B8, 10 m resolution | European Space Agency, Copernicus Programme, via Google Earth Engine | January 2017 to July 2026, monthly | Open access |
-| GNSS field survey data | Star Dune Dynamics project fieldwork | March 2026 | Restricted, held by the project |
+| Sentinel-2 Level-2A Surface Reflectance Harmonized (`COPERNICUS/S2_SR_HARMONIZED`), bands B2, B3, B4, B8, 10 m resolution | [European Space Agency](https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-2), Copernicus Programme, via Google Earth Engine | January 2017 to July 2026, monthly | Open access |
+| GNSS field survey data | [Star Dune Dynamics project](https://www.asg.ed.tum.de/rsa/forschung/star-dune-dynamics/) fieldwork | March 2026 | Restricted, held by the project |
 | Manually digitized reference lines (Big Mommy Dune, Inverted Y Dune) | Digitized in QGIS from a Sentinel-2 scene | August 2025 | Derived, not independently available |
-| Wind data (Dieprivier station) | SASSCAL WeatherNet (2020), https://www.sasscalweathernet.com/ | Ongoing record | Used under license |
-| Wind data (SOS 1 WEST on-site station) | Star Dune Dynamics project fieldwork | 16-20 March 2026 | Restricted, held by the project |
+| Wind data (Dieprivier station) | [SASSCAL WeatherNet (2020)](https://www.sasscalweathernet.com/) | Ongoing record | Used under license |
+| Wind data (SOS 1 WEST on-site station) | [Star Dune Dynamics project](https://www.asg.ed.tum.de/rsa/forschung/star-dune-dynamics/) project fieldwork | 16-20 March 2026 | Restricted, held by the project |
 
 ## Survey Materials
 
