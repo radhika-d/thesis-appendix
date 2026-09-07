@@ -34,7 +34,7 @@ MANUAL_CENTERLINE_FILE = "data/raw/reference_lines/star_dune_crsts.geojson"
 
 # ---- 2. PARAMETERS ----------------------------------------------------------
 SAMPLING_INTERVAL_M    = 10    # spacing between sample points along reference line
-PERPENDICULAR_LENGTH_M = 100   # half-length of perpendicular probe line (each side)
+PERPENDICULAR_LENGTH_M = 20   # half-length of perpendicular probe line (each side)
 
 # ---- 3. OUTPUTS --------------------------------------------------------------
 OUTPUT_FOLDER = 'data/processed/crest_post_process'
